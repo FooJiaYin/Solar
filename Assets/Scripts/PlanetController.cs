@@ -84,7 +84,7 @@ public class PlanetController : MonoBehaviour, IPointerDownHandler//, IPointerUp
     public void OnPointerDown(PointerEventData pointerEventData)
     {
         SEPlayer.playSE(5);
-        originalPos = gameObject.transform.position;
+        // originalPos = gameObject.transform.position;
         mouseOffset = gameObject.transform.position - Camera.main.ScreenToWorldPoint(Input.mousePosition);
         Transform gravity = gameObject.transform.Find("gravity");
         if(!gravity || gravity.gameObject.GetComponent<GravityController>().state == 2) onClicked = 1;
