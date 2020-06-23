@@ -39,26 +39,26 @@ v^2 r≈GM
     - 示範勝利條件：太陽、地球、月亮和諧公轉的全家福
     - 遊戲的名稱：SOLAR
     - 前往4個關卡的按鈕：1、2、3、4
-    ![](https://i.imgur.com/OKk0yeU.png)
+    </br>![](https://i.imgur.com/OKk0yeU.png)
     - 點擊問號顯示操作說明（用GUI實作）
-    ![](https://i.imgur.com/zpyxFrx.png)
+    </br>![](https://i.imgur.com/zpyxFrx.png)
 
 2. **主界面**
     - 左下角：返回主界面的按鈕和目前關卡
     - 中間下面顯示當前嘗試的次數
     - 右下角：reset按鈕，可以重置關卡和嘗試次數歸零
-    ![](https://i.imgur.com/zxTXyoP.png)
+    </br>![](https://i.imgur.com/zxTXyoP.png)
 
 3. **成功畫面**
     - 顯示等級
     - 右下角出現前往下一個關卡的按鈕。如果是最後一關會連到開始界面。
-    ![](https://i.imgur.com/GPqFEbm.png)
+    </br>![](https://i.imgur.com/GPqFEbm.png)
 
 4. **失敗提示**
     - 提示失敗的原因
     - 但如果是飛就沒有什麼好解釋的
     - 滑鼠按一下提示就會消失
-    ![](https://i.imgur.com/onSnL3I.png)
+    </br>![](https://i.imgur.com/onSnL3I.png)
 
 ## 音效設計
 - 背景音樂
